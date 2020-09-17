@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+- 📫 How to reach me: ...
+- ⚡ Fun fact: i was on tv for a little bit
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denvermullets)](https://github.com/denvermullets/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
 **denvermullets/denvermullets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
