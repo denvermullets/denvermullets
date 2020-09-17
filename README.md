@@ -12,9 +12,10 @@ Let's connect and chat!
 
 ## Deployed Projects:
 
-- [Wax Chromatics](https://waxchromatics.com)
-- [Text-Ray](https://text-ray.xyz)
-- [Awesome-Reads](https://awesome-reads.com)
+- [Wax Chromatics](https://waxchromatics.com) - A vinyl collection site built in React w/a Rails API backend
+- [Text-Ray](https://text-ray.xyz) - A Javascript Spelling Bee game using a Rails API backend
+- [Awesome-Reads](https://awesome-reads.com) - A Ruby on Rails CRUD app that lets you write reviews on books
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
