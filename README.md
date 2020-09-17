@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denvermullets)](https://github.com/denvermullets/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=denvermullets&repo=wax-chromatic-api)](https://github.com/denvermullets/wax-chromatic-react)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
 **denvermullets/denvermullets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
