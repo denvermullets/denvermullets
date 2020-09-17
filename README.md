@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denvermullets)](https://github.com/denvermullets/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=denvermullets&repo=wax-chromatics-api)](https://github.com/denvermullets/wax-chromatic-react)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=denvermullets&repo=wax-chromatic-api)](https://github.com/denvermullets/wax-chromatic-react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
 
