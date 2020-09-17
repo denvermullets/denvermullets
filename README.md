@@ -9,10 +9,14 @@ I love working with React, Javascript, and Ruby / Rails. I'm passionate about ph
 
 Let's connect and chat!
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ryan.vaznis@gail.com
 - ⚡ Fun fact: i was on tv for a little bit
 
+## Deployed Projects:
 
+- [Wax Chromatics](https://waxchromatics.com)
+- [Text-Ray](https://text-ray.xyz)
+- [Awesome-Reads](https://awesome-reads.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
