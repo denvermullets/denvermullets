@@ -8,7 +8,7 @@ I love working with React, Javascript, and Ruby / Rails. I'm passionate about ph
 Let's connect and chat!
 
 - 📫 How to reach me: ryan.vaznis@gmail.com || [LinkedIn](https://www.linkedin.com/in/ryanvaznis)
-- ⚡ Fun fact: i was on tv for a little bit
+- ⚡ Fun fact: I was on tv for a little bit
 
 ## Deployed Projects:
 
