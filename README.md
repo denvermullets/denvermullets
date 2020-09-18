@@ -21,5 +21,4 @@ Let's connect and chat!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
