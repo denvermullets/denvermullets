@@ -21,4 +21,8 @@ Let's connect and chat!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
 <!--START_SECTION:waka-->
+```text
+YAML       21 mins         ███████████████████░░░░░░   75.86 % 
+Markdown   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+```
 <!--END_SECTION:waka-->
