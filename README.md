@@ -18,8 +18,8 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/denvermullets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
