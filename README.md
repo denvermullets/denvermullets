@@ -18,7 +18,7 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
-### What I'm working on this week
+### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 YAML       21 mins         ███████████████████░░░░░░   75.86 % 
