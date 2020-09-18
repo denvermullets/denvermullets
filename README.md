@@ -5,8 +5,6 @@ Over the past few years I kept dipping my toes back into coding as something to 
 
 I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate about photography and design and truly believe that learning never stops.
 
-Let's connect and chat!
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || ryan.vaznis@gmail.com
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
@@ -20,6 +18,7 @@ Let's connect and chat!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
 
+### What I'm working on this week
 <!--START_SECTION:waka-->
 ```text
 YAML       21 mins         ███████████████████░░░░░░   75.86 % 
