@@ -5,7 +5,7 @@ Over the past few years I kept dipping my toes back into coding as something to 
 
 I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate about photography and design and truly believe that learning never stops.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || ryan.vaznis@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || [Twitter](https://twitter.com/ryanvaznis) || ryan.vaznis@gmail.com
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
 ### Deployed Projects
