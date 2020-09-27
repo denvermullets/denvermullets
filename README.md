@@ -18,6 +18,7 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact)](https://github.com/denvermullets)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
