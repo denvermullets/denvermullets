@@ -10,7 +10,7 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 
 ### Deployed Projects
 
-- [Wax Chromatics](https://waxchromatics.com) - A vinyl collection site built in React w/a Rails API backend
+- [Wax Chromatics](https://waxchromatics.com) - A vinyl record collection site built in React w/a Rails API backend
 - [Text-Ray](https://text-ray.xyz) - A Javascript Spelling Bee game using a Rails API backend
 - [GTA Micro-manager](https://gtao-tracker.xyz) - A small timer app to keep track of when to sell 'product' in GTA V: Online
 - [Awesome-Reads](https://awesome-reads.com) - A Ruby on Rails CRUD app that lets you write reviews on books
