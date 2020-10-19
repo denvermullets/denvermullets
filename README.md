@@ -9,7 +9,7 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
 ### Currently Working On
-- [Joberino](https://github.com/denvermullets/joberino-portal-frontend) - A local job scraper that pulls from job sites within the last 24hrs so you can stay on top of unique job postings day to day. Hide jobs you don't want and hides all Senior level jobs. Feel free to fork / clone and make PR's!
+- [Joberino](https://github.com/denvermullets/joberino-portal-api) - A local job scraper that pulls from job sites within the last 24hrs so you can stay on top of unique job postings day to day. Hide jobs you don't want and hides all Senior level jobs. Feel free to fork / clone and make PR's!
 
 ### Deployed Projects
 
