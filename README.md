@@ -25,11 +25,11 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 ### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 2 mins    ███████████████████▓░░░░░   79.05 % 
-Markdown     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-CSS          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Ruby         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript   8 hrs 35 mins   ██████████████████████▒░░   89.86 % 
+CSS          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Ruby         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
 
