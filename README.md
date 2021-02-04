@@ -8,11 +8,13 @@ I love working with React, Javascript, Ruby, and Ruby on Rails. I'm passionate a
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || [Twitter](https://twitter.com/ryanvaznis) || ryan.vaznis@gmail.com
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
-### Currently Working On
-- [Joberino](https://github.com/denvermullets/joberino-portal-api) - A local job scraper that pulls from job sites within the last 24hrs so you can stay on top of unique job postings day to day. Hide jobs you don't want and hides all Senior level jobs. Feel free to fork / clone and make PR's!
+<!-- ### Currently Working On
+- [Joberino](https://github.com/denvermullets/joberino-portal-api) - A local job scraper that pulls from job sites within the last 24hrs so you can stay on top of unique job postings day to day. Hide jobs you don't want and hides all Senior level jobs. Feel free to fork / clone and make PR's! -->
+
 
 ### Deployed Projects
 
+- [Joberino](https://joberino.dev) - A job listing site that only shows listings from the past 7 days
 - [Wax Chromatics](https://waxchromatics.com) - A vinyl record collection site built in React w/a Rails API backend
 - [Text-Ray](https://text-ray.xyz) - A Javascript Spelling Bee game using a Rails API backend
 - [GTA Micro-manager](https://gtao-tracker.xyz) - A small timer app to keep track of when to sell 'product' in GTA V: Online
