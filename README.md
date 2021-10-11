@@ -1,7 +1,7 @@
 ### About Me
 Hi I’m Ryan, a software engineer, [designer ](https://www.denvermullets.com/video) and [photographer](https://www.denvermullets.com/). I have a long history with being involved with coding, starting when I was about 11 yrs old. A friend introduced me to QBasic and the help docs so with nothing but time on my hands I started making my own games and apps. From there I moved on to Visual Basic 3.0 and was able to make a couple of apps for family members.
 
-Over the past year I've been working for a small (<20 employees) early stage startup where I've been able to rapidly grow and expand my knowledge. I love working with React, Typescript and/or Javascript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and truly believe that learning never stops.
+I switched careers from a Design oriented role in Jan 2020 and have loved my time in code. Over the past year I've been working for a small (<20 employees) early stage startup where I've been able to rapidly grow and expand my knowledge. I love working with React, Typescript and/or Javascript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and truly believe that learning never stops.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || [Twitter](https://twitter.com/ryanvaznis) || ryan.vaznis@gmail.com
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
