@@ -26,11 +26,11 @@ I switched careers from a Design oriented role in Jan 2020 and have loved my tim
 ### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   10 hrs 23 mins  ██████████████████▓░░░░░░   74.76 % 
-Ruby         3 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.61 % 
-Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript   12 hrs 9 mins   ████████████████████░░░░░   80.25 % 
+Ruby         1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+YAML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
 
