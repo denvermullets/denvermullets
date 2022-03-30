@@ -27,12 +27,12 @@ I switched careers from a Design oriented role in Jan 2020 and have loved my tim
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 7 mins    ████████████████▒░░░░░░░░   65.37 %
-GDScript     1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-JavaScript   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Bash         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+TypeScript   7 hrs 53 mins   ████████████████▒░░░░░░░░   65.66 %
+GDScript     1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+JavaScript   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Bash         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
