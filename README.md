@@ -27,8 +27,8 @@ I was previously an Art Director in the sports world and am now currently workin
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         1 hr 8 mins     ████████████▓░░░░░░░░░░░░   50.63 %
-Other        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Ruby         1 hr 8 mins     █████████████▒░░░░░░░░░░░   53.63 %
+Other        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
 ```
 
 <!--END_SECTION:waka-->
