@@ -27,9 +27,7 @@ I was previously an Art Director in the sports world and am now currently workin
 <!--START_SECTION:waka-->
 
 ```text
-Bash         8 mins          ██████████████████████▓░░   90.65 %
-TypeScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Haml         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
