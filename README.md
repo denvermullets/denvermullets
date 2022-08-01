@@ -27,11 +27,11 @@ I was previously an Art Director in the sports world and am now currently workin
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         11 hrs 11 mins  ██████████████████████░░░   88.28 %
-TypeScript   53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Ruby         11 hrs 11 mins  █████████████████████▓░░░   86.10 %
+TypeScript   1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
