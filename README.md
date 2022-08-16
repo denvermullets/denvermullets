@@ -21,7 +21,7 @@ I was previously an Art Director in the sports world and am now currently workin
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact&langs_count=10)](https://github.com/denvermullets)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&exclude_repo=ninetynine-staples&layout=compact&langs_count=10)](https://github.com/denvermullets)
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
