@@ -21,7 +21,10 @@ I was previously an Art Director in the sports world and am now currently workin
 
 ### Languages
 
+Ruby, Rails, Typescript, NodeJS, etc. My stats thing kinda broke so you'll just have to dig on your own!
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&exclude_repo=ninetynine-staples&layout=compact&langs_count=10)](https://github.com/denvermullets)
+-->
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
