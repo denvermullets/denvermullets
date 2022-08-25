@@ -1,7 +1,5 @@
 ### About Me
-Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/video) and [photographer](https://www.denvermullets.com/). I have a long history with being involved with coding, starting when I was about 11 yrs old. A friend introduced me to QBasic and the help docs so with nothing but time on my hands I started making my own games and apps. From there I moved on to Visual Basic 3.0 and was able to make a couple of apps for family members.
-
-I was previously an Art Director in the sports world and am now currently working for a small early stage startup where I've been able to rapidly grow and make an immediate impact. I value companies that want to push their employees to grow while giving them the support that they need. I love working with React, Typescript and/or Javascript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and truly believe that learning never stops.
+Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/video) and [photographer](https://www.denvermullets.com/). I was previously an Art Director in the sports world and I'm currently working for an agency where I work on some cool stuff that I can't share! I love working with React, Typescript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and I truly believe that learning never stops.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || [Twitter](https://twitter.com/ryanvaznis) || ryan.vaznis@gmail.com
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
@@ -13,15 +11,15 @@ I was previously an Art Director in the sports world and am now currently workin
 
 ### Deployed Projects
 
-- [Joberino](https://joberino.dev) - A job listing site that only shows listings from the past 7 days
-- [Wax Chromatics](https://waxchromatics.com) - A vinyl record collection site built in React w/a Rails API backend
-- [Text-Ray](https://text-ray.xyz) - A Javascript Spelling Bee game using a Rails API backend
-- [GTA Micro-manager](https://gtao-tracker.xyz) - A small timer app to keep track of when to sell 'product' in GTA V: Online
-- [Awesome-Reads](https://awesome-reads.com) - A Ruby on Rails CRUD app that lets you write reviews on books
+- [Joberino](https://joberino.dev) - A job listing site that only shows listings from the past 7 days (about to be sunset)
+- [Wax Chromatics](https://waxchromatics.com) - A vinyl record collection site built in React w/a Rails API backend (old school project)
+- [Text-Ray](https://text-ray.xyz) - A Javascript Spelling Bee game using a Rails API backend (old school project)
+- [GTA Micro-manager](https://gtao-tracker.xyz) - A small timer app to keep track of when to sell 'product' in GTA V: Online (super old)
+- [Awesome-Reads](https://awesome-reads.com) - A Ruby on Rails CRUD app that lets you write reviews on books (old school project)
 
 ### Languages
 
-Ruby, Rails, Typescript, NodeJS, etc. My stats thing kinda broke so you'll just have to dig on your own!
+Ruby, Rails, Typescript etc. My stats thing kinda broke so you'll just have to dig on your own! The weekly stats is pretty representative of what I'm working in lately.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&exclude_repo=ninetynine-staples&layout=compact&langs_count=10)](https://github.com/denvermullets)
 -->
