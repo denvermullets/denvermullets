@@ -28,10 +28,10 @@ Ruby, Rails, Typescript etc. My stats thing kinda broke so you'll just have to d
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   16 hrs 43 mins  █████████████▓░░░░░░░░░░░   54.77 %
-Ruby         7 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-JSON         2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Other        1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TypeScript   17 hrs 45 mins  ██████████████▓░░░░░░░░░░   58.23 %
+Ruby         6 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
+JSON         2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Other        1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 ```
 
 <!--END_SECTION:waka-->
