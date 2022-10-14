@@ -18,11 +18,11 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 - [Awesome-Reads](https://awesome-reads.com) - A Ruby on Rails CRUD app that lets you write reviews on books (old school project)
 
 ### Languages
-
-Ruby, Rails, Typescript etc. My stats thing kinda broke so you'll just have to dig on your own! The weekly stats is pretty representative of what I'm working in lately.
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&exclude_repo=ninetynine-staples&layout=compact&langs_count=10)](https://github.com/denvermullets)
+Ruby, Rails, Typescript etc. My stats thing kinda broke so you'll just have to dig on your own! The weekly stats is pretty representative of what I'm working in lately.
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact&langs_count=10)](https://github.com/denvermullets)
+
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
