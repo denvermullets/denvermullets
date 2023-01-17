@@ -1,5 +1,5 @@
 ### About Me
-Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/video) and [photographer](https://www.denvermullets.com/). I was previously an Art Director in the sports world and I'm currently working for an agency where I work on some cool stuff that I can't share! I'm really big into side projects and just enjoy coding and figuring out how to makes app hum. I love working with React, Typescript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and I truly believe that learning never stops.
+Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/video) and [photographer](https://www.denvermullets.com/). I was previously an Art Director in the sports world and I'm currently working for an agency where I work on some cool stuff that I can't share! I'm really big into side projects and just enjoy coding and figuring out how to make apps hum. I love working with React, Typescript, Node.js, Ruby, and Ruby on Rails. I'm passionate about photography and design and I truly believe that learning never stops.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanvaznis) || <a rel="me" href="https://hachyderm.io/@denvermullets">Mastodon</a> 
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
