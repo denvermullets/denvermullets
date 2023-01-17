@@ -9,8 +9,8 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 - [Collectable Moments](https://collectablemoments.com) - A daily postive note tracker to be shared with loved ones
 - [Wax Chromatics](https://waxchromatics.com) - A vinyl record collection site built in React w/a Rails API backend (old school project)
 
-<!-- ### Languages
-[![Top Langs](https://github-readme-stats-fixed-jw04xkfpn-denvermullets.vercel.app/api/top-langs/?username=denvermullets&layout=compact&langs_count=10)](https://github.com/denvermullets) -->
+### Languages
+[![Top Langs](https://github-readme-stats-fixed-jw04xkfpn-denvermullets.vercel.app/api/top-langs/?username=denvermullets&layout=compact&langs_count=10)](https://github.com/denvermullets)
 
 
 
