@@ -5,8 +5,8 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
 ### Deployed Projects
-- [99Staples](https://99staples.com) - A Magic The Gathering collection app
-- [Basketball Timeline](https://basketball-timeline.com/?team=PHO&year=1995) - A way to view starting lineups in the NBA
+- [99Staples](https://www.99staples.com/collections/denvermullets/9) - A Magic The Gathering collection app
+- [Basketball Timeline](https://basketball-timeline.com/?team=PHO&year=2023) - A way to view starting lineups in the NBA
 - [Collectable Moments](https://collectablemoments.com) - A daily postive note tracker to be shared with loved ones
 - [mentumm](https://portal.mentumm.com/) - (Freelance client) A career mentorship booking app, built in TS, NodeJS
 - [Wax Chromatics](https://waxchromatics.com) - A vinyl record collection site built in React w/a Rails API backend (old school project)
