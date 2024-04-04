@@ -5,10 +5,10 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
 ### Deployed Projects
-- [99Staples](https://www.99staples.com/collections/denvermullets/9) - A Magic The Gathering collection app (react/rails)
 - [Simple Budget Control](https://simplebudgetcontrol.com/) - A simple paycheck budget app (react)
 - [when the music stops](https://whenthemusicstops.net) - A music forum with a stripped back minimal approach (rails 7)
 - [Basketball Timeline](https://basketball-timeline.com/?team=PHO&year=2023) - A way to view starting lineups in the NBA
+- [99Staples](https://www.99staples.com/collections/denvermullets/9) - A Magic The Gathering collection app (react/rails)
 - [mentumm](https://portal.mentumm.com/) - (Freelance client) A career mentorship booking app, built in TS, NodeJS
 
 ### Weekly Stats
