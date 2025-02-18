@@ -16,11 +16,11 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         4 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.01 %
-TypeScript   3 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.83 %
-JSON         1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-Markdown     43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-YAML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Ruby         6 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.74 %
+TypeScript   3 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+JSON         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Markdown     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+YAML         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
