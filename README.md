@@ -16,7 +16,9 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 <!--START_SECTION:waka-->
 
 ```txt
-C#   14 mins         █████████████████████████   100.00 %
+C#           14 mins         ██████████████░░░░░░░░░░░   55.97 %
+Other        7 mins          ███████░░░░░░░░░░░░░░░░░░   27.98 %
+TypeScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
 ```
 
 <!--END_SECTION:waka-->
