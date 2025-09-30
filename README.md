@@ -16,11 +16,11 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/vid
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir       3 hrs 15 mins   ██████████████████░░░░░░░   72.39 %
-TypeScript   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Makefile     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Terraform    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-TSConfig     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Elixir       3 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.56 %
+TypeScript   3 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.46 %
+CSV          2 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+Makefile     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Terraform    13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
