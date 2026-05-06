@@ -16,11 +16,11 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/) a
 <!--START_SECTION:waka-->
 
 ```txt
-Other        8 hrs 59 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-Ruby         8 hrs 44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Markdown     6 hrs 4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Elixir       3 hrs 53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-ERB          2 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Ruby         11 hrs 44 mins        ███████▒░░░░░░░░░░░░░░░░░   29.72 %
+Other        8 hrs 24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+Markdown     6 hrs 30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Elixir       4 hrs 13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+ERB          2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
