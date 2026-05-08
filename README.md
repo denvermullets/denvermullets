@@ -5,12 +5,13 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/) a
 - ⚡ Fun fact: [I was on tv](https://vimeo.com/381425882) for a little bit and I think it's still in rotation
 
 ### Deployed Projects
-- [99Staples](https://99staples.com/collections/denvermullets) - A Magic The Gathering collection app (modern rails)
-- [Just Another Issue Tracker](https://justanotherissuetracker.com) - An issue tracker I built to replace Linear for my projects (modern rails)
-- [Obsidian Task Rollover Plugin](https://github.com/denvermullets/obsidian-task-rollover-plugin) - A plugin built for how I (and a friend) like to keep track of my tasks rolls over to a new note daily and gives me a glance of PR's I need to look at (typescript)
-- [when the music stops](https://whenthemusicstops.net) - A music forum with a stripped back minimal approach (modern rails)
-- [PacketSta.sh](https://packetsta.sh) - An app that acts as a central base for talking to Meshtastic network (modern rails)
-- [Simple Budget Control](https://simplebudgetcontrol.com/) - A simple paycheck budget app (react)
+- [Collectable Moments](https://collectablemoments.com) - A private family sharing app built with a super focus on privacy
+- [99Staples](https://99staples.com/collections/denvermullets) - A Magic The Gathering collection app
+- [Just Another Issue Tracker](https://justanotherissuetracker.com) - An issue tracker I built to replace Linear for my projects. Has its own MCP layer and soon a Rust desktop app
+- [Hourglass](https://hourglass.nyc) - A chat app my team uses. Has some custom integrations with JustAnotherIssueTracker
+- [Obsidian Task Rollover Plugin](https://github.com/denvermullets/obsidian-task-rollover-plugin) - A plugin built for how I (and a friend) like to keep track of my tasks rolls over to a new note daily and gives me a glance of PR's I need to look at
+- [when the music stops](https://whenthemusicstops.net) - A music forum with a stripped back minimal approach
+- [Simple Budget Control](https://simplebudgetcontrol.com/) - A budgeting app w/light AI piping to my raspi
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
