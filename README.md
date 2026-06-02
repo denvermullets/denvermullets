@@ -17,11 +17,11 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/) a
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3        18 hrs 46 mins        ███████████▒░░░░░░░░░░░░░   45.82 %
-Markdown         6 hrs 54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Ruby             4 hrs 41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-ERB              3 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Godot Resource   3 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+GDScript3        18 hrs 44 mins        ███████████▒░░░░░░░░░░░░░   45.05 %
+Markdown         6 hrs 21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Ruby             4 hrs 43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+ERB              3 hrs 23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Godot Resource   3 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
 ```
 
 <!--END_SECTION:waka-->
