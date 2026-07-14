@@ -13,15 +13,3 @@ Hi I’m Ryan, a software engineer, [designer](https://www.denvermullets.com/) a
 - [when the music stops](https://whenthemusicstops.net) - A music forum with a stripped back minimal approach
 - [Simple Budget Control](https://simplebudgetcontrol.com/) - A budgeting app w/light AI piping to my raspi
 
-### Weekly Stats
-<!--START_SECTION:waka-->
-
-```txt
-GDScript3        26 hrs 15 mins        ██████████████░░░░░░░░░░░   55.75 %
-Markdown         7 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-Ruby             3 hrs 39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Elixir           1 hr 49 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-ERB              1 hr 18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-```
-
-<!--END_SECTION:waka-->
